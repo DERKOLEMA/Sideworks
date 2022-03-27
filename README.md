@@ -1,12 +1,11 @@
-<details><summary>Loadstring</summary>
+<details><summary>CLICK ME</summary>
 <p>
-  ####AWS
-```lua
-  
-print(1000 - 7)
-for i = 1, 1000 / 7 - 1 do
-    print(1000 - i * 7 - 7)
-end
-```
+
+#### We can hide anything, even code!
+
+    ```ruby
+      puts "Hello World"
+    ```
+
 </p>
 </details>
